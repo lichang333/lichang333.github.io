@@ -101,6 +101,16 @@ footer {
   margin: 0 5px;
 }
 
+.archive-note {
+  color: #595959;
+  line-height: 1.7;
+}
+
+.archive-note a {
+  color: #285e99;
+  text-decoration: underline;
+}
+
 
 /*****************
 Page: Portfolio
